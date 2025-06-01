@@ -20,7 +20,8 @@ else:
   print("ODD")
 ```
 ## Output
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/005a380d-0d14-420d-ab2c-8ae3ea0ebdcf)
+
 
 ## Result
 Thus the program has been successfully executed.
